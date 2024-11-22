@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+header{
+    text-align: center;
+    background-color: black;
+}
+.charas{
+    min-height: 100%;
+    min-width: 100%;
+}
+table{
+    border-collapse: collapse;
+}
+tr {
+    border: 2px solid rgb(71, 102, 71);
+}
+.vA{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.voiceCast{
+    color:rgb(62, 95, 62);
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: 200;
+}
+.tableOne{
+    margin-left: auto;
+    margin-right: auto;
+}
+.namesInTable{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    color:rgb(62, 95, 62) ;
+    font-size: 20px;
+}
+.names{
+    margin-left: 50px;
+}
+td{
+    border: 2px;
+}
+.starfire{
+    margin-left: 50px;
+
+}
